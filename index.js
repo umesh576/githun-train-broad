@@ -1,1 +1,1 @@
-this javascript file
+//this javascript file
